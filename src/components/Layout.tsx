@@ -10,7 +10,6 @@ export function Layout({ children }: { children: React.ReactNode }) {
         sx={{
           mt: 4,
           mb: 4,
-          backgroundColor: "#000",
         }}
       >
         {children}
