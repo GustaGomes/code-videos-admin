@@ -8,6 +8,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <Container
         maxWidth="lg"
         sx={{
+          color: "white",
           mt: 4,
           mb: 4,
         }}
